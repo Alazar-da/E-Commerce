@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Earbuds",
+      "description": "High-quality wireless earbuds with noise cancellation and 12-hour battery life.",
+      "image": "https://images.unsplash.com/photo-1605464315542-bda3e2f4e605?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "quantity": 50,
+      "price": 79.99,
+      "brand": "SoundPro",
+      "condition": "New",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch Fitness Tracker",
+      "description": "Track your heart rate, steps, and sleep with this advanced smartwatch.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "quantity": 30,
+      "price": 129.99,
+      "brand": "FitTech",
+      "condition": "New",
+      "category": "Wearables"
+    },
+    {
+      "id": 3,
+      "name": "Wireless Mechanical Keyboard",
+      "description": "A sleek, wireless mechanical keyboard with RGB lighting and ergonomic design.",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "quantity": 20,
+      "price": 99.99,
+      "brand": "KeyMaster",
+      "condition": "New",
+      "category": "Accessories"
+    },
+    {
+      "id": 4,
+      "name": "4K Ultra HD Smart TV",
+      "description": "55-inch 4K Ultra HD Smart TV with HDR and built-in streaming apps.",
+      "image": "https://images.unsplash.com/photo-1571415060716-baff5f717c37?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "quantity": 10,
+      "price": 599.99,
+      "brand": "VisionX",
+      "condition": "New",
+      "category": "Home Entertainment"
+    },
+    {
+      "id": 5,
+      "name": "Noise-Cancelling Headphones",
+      "description": "Over-ear headphones with active noise cancellation and 30-hour battery life.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "quantity": 40,
+      "price": 199.99,
+      "brand": "AudioMax",
+      "condition": "Refurbished",
+      "category": "Electronics"
+    }
+  ]
